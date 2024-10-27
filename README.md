@@ -1,0 +1,1 @@
+# smart-recruiting-platform-application
